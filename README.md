@@ -1,1 +1,1 @@
-# NodJS Backend Practice
+# NodeJS for backend development practice.
